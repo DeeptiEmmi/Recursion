@@ -1,4 +1,7 @@
 //print a string in reverse
+//Deepti Emmi 
+//23070123049
+
 #include <iostream>
 using namespace std;
 

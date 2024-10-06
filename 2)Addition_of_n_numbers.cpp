@@ -1,4 +1,7 @@
 //addition of all integers upto n
+//Deepti Emmi 
+//23070123049
+
 #include<iostream>
 using namespace std;
 
